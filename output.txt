@@ -1,9 +1,9 @@
-100,
-99,
-98,
-77,
-93,
-94,
-61,
-68,
-76,
+Heap built using sequential insertions:100
+Heap built using sequential insertions:99
+Heap built using sequential insertions:98
+Heap built using sequential insertions:77
+Heap built using sequential insertions:93
+Heap built using sequential insertions:94
+Heap built using sequential insertions:61
+Heap built using sequential insertions:68
+Heap built using sequential insertions:76
