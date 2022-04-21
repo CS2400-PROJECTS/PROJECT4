@@ -34,7 +34,7 @@ public class MaxHeaps {
 	    	
 
 	        for (int i = 0; i < pos; i++) {
-	        System.out.println(theHeap[i] + ",");
+	        System.out.println("Heap built using sequential insertions:" + theHeap[i]);
 	        
 	    	}
 	    }
